@@ -4,7 +4,7 @@ The Auto Feedback Extension is a Chrome extension designed to streamline the pro
 ## Features
 Automated Feedback Submission: Automatically fills out and submits feedback on the LPU MyPerfectice test feedback page.
 Customizable Ratings: Selects the 5-star rating and provides predefined responses to feedback prompts.
-Keyboard Shortcut: Initiates the feedback automation with the Alt+F keyboard shortcut for quick execution.
+Keyboard Shortcut: Initiates the feedback automation with the Alt+Z keyboard shortcut for quick execution.
 No Popup Required: Operates seamlessly without requiring user interaction through popups.
 
 ## How It Works
