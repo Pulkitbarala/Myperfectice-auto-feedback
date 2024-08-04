@@ -1,0 +1,34 @@
+{
+    "manifest_version": 3,
+    "name": "Auto Feedback Extension",
+    "version": "1.0",
+    "description": "Automatically provide feedback on LPU MyPerfectice.",
+    "permissions": [
+      "activeTab",
+      "declarativeContent",
+      "storage"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://lpu.myperfectice.com/student/test-feedbacks/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "commands": {
+      "start-feedback": {
+        "suggested_key": {
+          "default": "Alt+F"
+        },
+        "description": "Start auto feedback"
+      }
+    },
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+  
