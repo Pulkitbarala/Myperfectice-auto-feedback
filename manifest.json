@@ -20,7 +20,7 @@
     "commands": {
       "start-feedback": {
         "suggested_key": {
-          "default": "Alt+F"
+          "default": "Alt+Z"
         },
         "description": "Start auto feedback"
       }
