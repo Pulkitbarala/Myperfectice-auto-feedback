@@ -26,7 +26,7 @@ Load the Extension in Chrome:
 ## Use the Extension:
 Navigate to the LPU MyPerfectice test feedback page.
 
-Press Alt+F to automatically fill out and submit feedback.
+Press Alt+C to automatically fill out and submit feedback.
 
 ## Contribution
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
